@@ -1,0 +1,14 @@
+경기게임마이스터고등학교
+3기생 여러분들 반갑습니다!
+
+저장 단축기 :ctrl+s
+작업후 저장 필수
+
+ctlr + ~ : 터미널 창 열기
+git init : 해당폴더를 깃에서 관리하는 깃에서 관리하는 폴더를 초기화시킵니다/
+git config --global user.name "깃 닉네임(june060522)
+git config --global user.email "깃 이메일(a80336234@gmail.com)
+
+파일병경--> 스테이징 처리 --> 커밋으로 저장
+
+스테이징 명령어: git add (파일명)
