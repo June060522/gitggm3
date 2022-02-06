@@ -22,4 +22,6 @@ git commit -m "쓰고싶은메시지"
 q 누르면 나가기
 
 git checkout (앞에4자리)--원하는 시점으로 돌아가기
-git checkout master --다시 처음(최신버전) 돌아가기
+git checkout master --다시 처음(최신버전) 돌아가기git
+
+이준이
